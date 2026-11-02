@@ -1,0 +1,17 @@
+# Виртуальные окружения и кэш
+.venv/
+*/.venv/
+__pycache__/
+*.pyc
+
+# Секреты и токены
+api_key.txt
+bot_token.txt
+.env
+
+# Логи и пользовательские файлы
+bot.log
+downloads/
+
+# Репозиторий OpenJarvis (отдельный проект)
+OpenJarvis/
